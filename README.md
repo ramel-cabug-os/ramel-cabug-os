@@ -1,7 +1,7 @@
 ```ruby
-def say msg 
-  put msg
+def say **arg 
+  p arg[:msg].to_s.gsub! '_',' '
 end
 
-say :hello_world
+say(msg: :hello_world)
 ```
