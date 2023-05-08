@@ -5,3 +5,4 @@ end
 
 say(msg: :hello_world)
 ```
+![](https://komarev.com/ghpvc/?username=ramel-cabug-os&color=blue&style=flat-square&label=PROFILE+VIEWS)
