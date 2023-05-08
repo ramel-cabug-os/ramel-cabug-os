@@ -1,4 +1,4 @@
-<img align="right" src="[https://accounting-improvements.com/wp-content/uploads/2020/09/freee.png](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1397184289/1cc8dabb6ca735fd3fb62fe111c5facd.png)" width="300"/>
+<img align="right" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1397184289/1cc8dabb6ca735fd3fb62fe111c5facd.png" width="300"/>
 
 # Hello World! | こんにちは世界
 
